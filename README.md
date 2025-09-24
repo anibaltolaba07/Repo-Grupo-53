@@ -1,0 +1,1 @@
+Este proyecto colaborativo comienza el dia Miercoles sin Mate y sin facturas.
