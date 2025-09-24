@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hola chicos acá estoy probando push
 
 
@@ -20,3 +21,6 @@ Lindo dia para tomar mate frio
 hola hice cambios (Fran)
 Lindo dia para tomar mate frio
 >>>>>>> 30b3fd23ca4262d71a8895362eb4cf9772dba80b
+=======
+Hola que tal soy el chico de tus poesías
+>>>>>>> ab69f34589712c22b019c8317b205efcdf5dd4e7
