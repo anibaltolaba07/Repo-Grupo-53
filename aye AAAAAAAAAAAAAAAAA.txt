@@ -6,6 +6,17 @@ no se pierda la previa del Teorema de Pitágoras
 El teorema de Pitágoras tiene este nombre porque su descubrimiento recae sobre la escuela pitagórica. Anteriormente, en Mesopotamia y el Antiguo Egipto se conocían ternas de valores que se correspondían con los lados de un triángulo rectángulo y se utilizaban para resolver problemas referentes a los citados triángulos, tal como se indica en algunas tablillas y papiros. Sin embargo, no ha perdurado ningún documento que exponga teóricamente su relación. La pirámide de Kefrén, datada en el siglo XXVI a.C., fue la primera gran pirámide que se construyó basándose en el llamado triángulo sagrado egipcio, de proporciones 3 − 4 − 5.
 
 hola chicos borre la linea de aye
+
+hola hice cambios (Fran)
+
 Lindo dia para tomar mate frio
 
 
+
+=======
+>>>>>>> 36c08dfeead72a40068a3fa438cc050d073a4f58
+>>>>>>> 57b0a369bfa114105277742941d3b28e95bae2cb
+=======
+hola hice cambios (Fran)
+Lindo dia para tomar mate frio
+>>>>>>> 30b3fd23ca4262d71a8895362eb4cf9772dba80b
